@@ -31,6 +31,7 @@ class Data(object):
       self.x_train, self.x_test, self.y_train, self.y_test = train_test_split(x_data, y_data, test_size=test_ratio, random_state=42)
       pass
 
+
 class Multilayer_Perceptron():
     def __init__(self, hid_unit_num, max_epoch, learn_rate, finish_mode, decay_mode, decay_rate, energy_scale_maintenance, req_acc, cons_mode, cons_th, saving_freq, consolidation_freq):
         self.hid_unit_num = hid_unit_num
