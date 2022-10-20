@@ -2,9 +2,9 @@
 
 Energy efficiency is a major source of evolutionary selection pressure because it is important for survival. Therefore, in the brain, computational mechanisms such as synaptic plasticity are likely to be optimised to minimise energy consumption wherever possible. In this project, I and two other colleagues have reproduced Li and van Rossum's (Li and van Rossum, 2020) model of different forms of plasticity, in which they propose that transient forms of plasticity serve to cache changes in synaptic weights until later consolidation. To simulate neuron connections and the amount of energy they consume, in this project I constructed a multy-layer perceptron, which I calculated changes in milk energy consumption based on changes in weights by loading it into the widely used MNIST database.
 
-The original paper from Li and van Rossum (2020) can be read [HERE](https://elifesciences.org/articles/50804)
+The original paper from Li and van Rossum (2020) can be read **[HERE](https://elifesciences.org/articles/50804)**
 <br>
-The article describing the project can be read [HERE](https://github.com/nyirobalazs/multilayer_perceptron/blob/main/Synaptic_caching_to_reduce_energy_consumption_from_learning%20(4).pdf)
+The article describing the project can be read **[HERE](https://github.com/nyirobalazs/multilayer_perceptron/blob/main/Synaptic_caching_to_reduce_energy_consumption_from_learning%20(4).pdf)**
 
 ## Multilayer perceptron
 
