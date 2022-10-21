@@ -4,7 +4,7 @@ Energy efficiency is a major source of evolutionary selection pressure because i
 
 The original paper from Li and van Rossum (2020) can be read **[HERE](https://elifesciences.org/articles/50804)**
 <br>
-The article describing the project can be read **[HERE](https://github.com/nyirobalazs/multilayer_perceptron/blob/main/Synaptic_caching_to_reduce_energy_consumption_from_learning%20(4).pdf)**
+The paper describing the project can be read **[HERE](https://github.com/nyirobalazs/multilayer_perceptron/blob/main/Synaptic_caching_to_reduce_energy_consumption_from_learning%20(4).pdf)**
 
 ## Multilayer perceptron
 
